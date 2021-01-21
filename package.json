@@ -15,7 +15,7 @@
     "lowdb": "^1.0.0",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "superagent": "^5.1.0"
   },
   "devDependencies": {
